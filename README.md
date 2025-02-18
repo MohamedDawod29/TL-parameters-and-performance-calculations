@@ -9,4 +9,4 @@
   C- Calculations for **Line Performance**.
 
 
-  ## 2- GUI To Do All This cClculations.
+  ## 2- GUI To Do All This Calculations.
